@@ -1,1 +1,3 @@
-console.log('Artyr33');
+console.log('Artyr');
+
+const kassablanca = 'bluevize';
